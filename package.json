@@ -1,0 +1,21 @@
+{
+  "name": "booking-project-api-supertest",
+  "private": "true",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint --ext .js ."
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-defaults": "^9.0.0",
+    "eslint-plugin-jest": "^26.0.0",
+    "faker": "^5.5.3",
+    "jest": "^27.4.4",
+    "supertest": "^6.1.6"
+  },
+  "jest": {
+    "setupFiles": [
+      "<rootDir>/.jest/globals.js"
+    ]
+  }
+}
