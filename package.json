@@ -16,6 +16,7 @@
   "jest": {
     "setupFiles": [
       "<rootDir>/.jest/globals.js"
-    ]
+    ],
+    "modulePathIgnorePatterns": ["__tests__/helpers"]
   }
 }
