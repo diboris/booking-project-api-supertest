@@ -26,7 +26,7 @@ module.exports = {
   },
   'globals': {
     'BASE_URL': 'readonly',
-    'JSON_HEADER': 'readonly',
+    'COMMON_HEADERS': 'readonly',
     'JSON_CONTENT_TYPE': 'readonly',
     'TEXT_PLAIN_CONTENT_TYPE': 'readonly'
   }
