@@ -1,4 +1,4 @@
-# JS REST API tests [![Build Actions Status](https://github.com/diboris/js-restapi-tests/actions/workflows/test.yml/badge.svg)](https://github.com/diboris/js-restapi-tests/actions)
+# JS REST API tests [![Build Actions Status](https://github.com/diboris/booking-project-api-supertest/actions/workflows/test.yml/badge.svg)](https://github.com/diboris/js-restapi-tests/actions)
 
 Showcase project that tests [booking](https://restful-booker.herokuapp.com/apidoc/index.html) API
 using [jest](https://github.com/facebook/jest)
